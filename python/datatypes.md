@@ -1,0 +1,12 @@
+# object types / data types
+- Number : 3.14,0b111,decimal(),fraction() 
+- String : 'spam', 'shubham', "Bob's", b'a/x01c'
+- List : [1,[2,"shubham"],4.5] ,  list(range(10))
+- Tuple : (1,2,3,'spam', 'u') , tuple('spam')  namedtuple
+- Dictionary : {'shubh':'shubham','character':'good'}  dict(hour=10)
+- set : set('abc') {'a','b','c'}
+- file : open('open.txt')   open('pathoffile','wb')
+- Boolean : True, False
+- None : None
+- functions, module, classes
+- Advance: decorator,iterator,generator,MetaProgramming
